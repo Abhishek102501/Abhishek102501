@@ -140,7 +140,7 @@ Graphs               ██████████░░░░░░░░░�
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-dubey)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-dubey-jd/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhi.shek.897984@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhishek102501)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Abhishek102501/MyPortfolio)
